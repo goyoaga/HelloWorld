@@ -1,2 +1,21 @@
-# Basic HTML "Hola Mundo!"
-Este es un ejemplo simple de una página web que imprime "Hola mundo!". La página web está escrita en HTML y se puede ver directamente en el navegador web.
+# HTML "Hola Mundo!"
+
+Este es un proyecto de demostración súper simple que consiste en un único archivo HTML.
+
+## 🚀 Propósito
+
+El objetivo principal de este repositorio es servir como un "Hola Mundo" para:
+* Aprender los comandos básicos de Git (`clone`, `add`, `commit`, `push`).
+* Familiarizarse con la interfaz de GitHub.
+* Probar la funcionalidad de **GitHub Pages** para publicar un sitio web estático.
+
+## 📂 Contenido
+
+El repositorio contiene un solo archivo:
+* `index.html`: La página web que muestra el mensaje "Hola mundo!".
+
+## 🌐 Sitio en Vivo (GitHub Pages)
+
+¡Este proyecto está publicado como un sitio web en vivo!
+
+Puedes visitarlo aquí: https://goyoaga.github.io/HelloWorld/
